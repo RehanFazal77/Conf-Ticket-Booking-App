@@ -1,4 +1,4 @@
-# Go-projects
+# Conference Ticket Booking App
 This  repository contains all the go project that I have done
 Go Conference Booking Application
 Welcome to the Go Conference Booking Application! This application allows users to book tickets for the Go Conference and receive confirmation tickets via email(this project dont have backend supoort).
