@@ -1,6 +1,6 @@
 # Conference Ticket Booking App
 This  repository contains all the go project that I have done
-Go Conference Booking Application
+ Go Conference Booking Application
 Welcome to the Go Conference Booking Application! This application allows users to book tickets for the Go Conference and receive confirmation tickets via email(this project dont have backend supoort).
 
 **Table of Contents
@@ -43,15 +43,3 @@ docker run -it conf-ticket-booking-app
 or 
 docker run -p 8080:8080 conference-app
 Now, you can access the application at http://localhost:8080.
-
-
-**Usage**
-Follow the prompts to enter your details and book conference tickets.
-Confirmation tickets will be sent via email.
-
-**Contributing**
-Feel free to contribute to the project. Fork the repository, make your changes, and submit a pull request.
-
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
