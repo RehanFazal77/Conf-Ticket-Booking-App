@@ -41,7 +41,7 @@ Docker: Installation Guide
 
 **Docker**
 
-**1.Build the Docker image:**
+**1.Build the Docker image:** <br/>
 ```docker build -t conf-ticket-booking-app .``` <br/>
 
 **2.Run the Docker container:**<br/>
